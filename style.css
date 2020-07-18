@@ -12,5 +12,8 @@ h4{
     color:red;
 }
 h5{
-    curosr:pointer
+    cursor:pointer
+}
+h6{
+    color:pink;
 }
